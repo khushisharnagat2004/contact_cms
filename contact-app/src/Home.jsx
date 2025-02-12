@@ -15,7 +15,8 @@ const Home = () => {
   const [currentContact, setCurrentContact] = useState({ _id: '', name: '', address: '', phoneNo: '' });
   const { logout } = useContext(AuthContext);
   const navigate = useNavigate();
-  const api_url="http://localhost:4000";
+  // const api_url="http://localhost:4000";
+   const api_url="https://contact-cms-backend.onrender.com";
 
 
   useEffect(() => {
