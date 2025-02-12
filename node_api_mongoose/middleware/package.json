@@ -1,0 +1,25 @@
+.org/12.0/#sec-construct'
+	},
+	CopyDataBlockBytes: {
+		url: 'https://262.ecma-international.org/12.0/#sec-copydatablockbytes'
+	},
+	CopyDataProperties: {
+		url: 'https://262.ecma-international.org/12.0/#sec-copydataproperties'
+	},
+	CreateArrayFromList: {
+		url: 'https://262.ecma-international.org/12.0/#sec-createarrayfromlist'
+	},
+	CreateArrayIterator: {
+		url: 'https://262.ecma-international.org/12.0/#sec-createarrayiterator'
+	},
+	CreateAsyncFromSyncIterator: {
+		url: 'https://262.ecma-international.org/12.0/#sec-createasyncfromsynciterator'
+	},
+	CreateAsyncIteratorFromClosure: {
+		url: 'https://262.ecma-international.org/12.0/#sec-createasynciteratorfromclosure'
+	},
+	CreateBuiltinFunction: {
+		url: 'https://262.ecma-international.org/12.0/#sec-createbuiltinfunction'
+	},
+	CreateByteDataBlock: {
+		url:

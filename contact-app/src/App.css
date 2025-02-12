@@ -1,0 +1,40 @@
+.customOverlay {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.customModal {
+  width: 500px !important;
+  padding: 0 !important;
+  border-radius: 0.3rem !important;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3) !important;
+}
+
+.customModal .modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.customModal .modal-title {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.customModal .btn-close {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+}
+
+.customModal .modal-body {
+  padding: 1rem;
+}
+
+.customModal .modal-footer {
+  display: flex;
+  justify-content: end;
+  padding: 1rem;
+  border-top: 1px solid #dee2e6;
+}
